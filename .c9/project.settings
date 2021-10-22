@@ -6,8 +6,8 @@
         "@saveall": true
     },
     "extensions": {
-        "@aws.cfnSchemaVersion": "v5.2.9",
-        "@aws.samSchemaVersion": "v5.2.9",
+        "@aws.cfnSchemaVersion": "v5.2.11",
+        "@aws.samSchemaVersion": "v5.2.11",
         "@yaml.customTags": [
             "!And",
             "!And sequence",
